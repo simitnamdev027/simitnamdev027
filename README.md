@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/1a/39/1b/1a391b7c8fe7fdea7f65b903a826017a.jpg)]
+![MasterHead](https://i.pinimg.com/736x/1a/39/1b/1a391b7c8fe7fdea7f65b903a826017a.jpg)
 <h1 align="center">Hi 👋, I'm Simit Namdev</h1>
 <h3 align="center">I am a passionate MERN stack developer from india</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/e4/94/8ee494a0ac4ae5d25196b4bd95b46acf.gif" />
